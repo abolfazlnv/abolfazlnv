@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Abolfazl Nazerpanah &nbsp; <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> 
+<h3 align="center">Hi, I'm Abolfazl Nazerpanah &nbsp; <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="28px"></h3> 
 
 <br/>
 I worked for 3 years professionally as a site designer and back-end developer using the Python language and Django framework. also used Celery and Django Rest Framework.
